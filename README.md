@@ -1,32 +1,31 @@
 # MicroTouchMac
-Resources for old MicroTouch touchscreens for Mac
-
-# About
 This is a resource for people interested in the MicroTouch Mac 'n Touch touchscreen for ADB-based Compact Macintosh computers (SE, SE/30, Classic, Classic II), as well as for later Mac-based Microtouch products (external monitors and iMacs).
 
 # Mac 'n Touch
 The Mac 'n Touch is a 9" glass touchscreen with a controller board made in the late 80s for ADB-based Compact Macs. It is a capacitive touchscreen with 1024x1024 resolution at 60hz.
 
+Example images and video can be seen in the **Images** folder. The video is by vintagecomputer.ca, originally [posted to youtube](https://www.youtube.com/watch?v=DF-Je337sFo).
+
 # Community
 Discussion is happening on [this 68kmla thread](https://68kmla.org/forums/topic/55457-mac-se30-with-microtouch-touchscreen/). There are two, possibly three units that have been seen in the wild.
 
-* Snuci has a unit (c 1989), ebay item # 112373352145
-* nickpunt (me) has a unit (c 1987), ebay item # 333911485496
+* [vintagecomputer.ca](http://vintagecomputer.ca/) has a unit (c 1989), ebay item # 112373352145
+* [nickpunt](https://nickpunt.com) (me) has a unit (c 1987), ebay item # 333911485496
 * A Mac Classic with a touchscreen was seen in the wild in 2015 in this [thread](https://68kmla.org/forums/topic/24522-ebay-not-me-a-touch-screen-classic/?tab=comments#comment-257093), ebay item # 251793191988
 
 # Products & Drivers
-Touchware 2 and 3 drivers are from snuci's [vintagecomputer.ca](http://vintagecomputer.ca/files/MicroTouch/) site. Touchware 3 and 5 are from reverse engineering 3M's legacy download URLs (http://www.3m.com/us/electronics_mfg/touch_systems/downloads/drivers/ via [this copy of their 90s website html](http://www.3m.com/us/electronics_mfg/touch_systems/downloads/legacy.jhtml). You can see this in original form [on archive.org's version of MicroTouch's 90s website](https://web.archive.org/web/20001202084100/http://www.microtouch.com/mthtml/05a1_drivers.htm). Some drivers are also available at [TouchWindow](https://www.touchwindow.com/c/3Mmicrotouch.html) (a touchscreen vendor). Including all copies acquired here, in case there are problems.
+See the **Drivers** folder.
+
+Touchware 2 and 3 drivers are from [vintagecomputer.ca](http://vintagecomputer.ca/files/MicroTouch/). Touchware 3 and 5 are from reverse engineering 3M's legacy download URLs (http://www.3m.com/us/electronics_mfg/touch_systems/downloads/drivers/ via [this copy of their 90s website html](http://www.3m.com/us/electronics_mfg/touch_systems/downloads/legacy.jhtml). You can see this in original form [on archive.org's version of MicroTouch's 90s website](https://web.archive.org/web/20001202084100/http://www.microtouch.com/mthtml/05a1_drivers.htm). Some drivers are also available at [TouchWindow](https://www.touchwindow.com/c/3Mmicrotouch.html) (a touchscreen vendor). Including all copies acquired here, in case there are problems.
 
 ## Touchware 2 (68k)
-Source: snuci (drivers) and nickpunt (user guide)
-
 Versions: 2.4, 2.5
 
 Use **Mac+n+Touch+2.4.sea** or **MacnTouch 2.5.sea**
 
 Presumably this is for ADB-based 68k Macs, and possibly exclusively the Mac 'n Touch line. In the user guide, mention is made of needing a newer ROM to support multiple touchscreen monitors. This could be external CRTs.
 
-Another source of early TouchWare drivers may be MicroTouch's Unmouse trackpad product, which seems to have come out around 1990. Getting an original floppy from one of these (often available on eBay) may have more. The Unmouse is mentioned in the Mac 'n Touch User Guide PDF. 
+Another source of early TouchWare drivers may be MicroTouch's Unmouse trackpad product, which seems to have come out around 1990. Getting an original floppy from one of these (often available on eBay) may have more. The Unmouse is mentioned in the Mac 'n Touch User Guide PDF.
 
 
 ## Touchware 3 (PPC ADB)
