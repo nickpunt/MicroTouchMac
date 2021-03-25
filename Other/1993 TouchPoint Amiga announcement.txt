@@ -1,0 +1,84 @@
+
+
+MICROTOUCH SYSTEMS INTRODUCES LOW-COST TOUCH MONITOR FOR THE AMIGA
+
+
+MicroTouch Systems, Inc. today introduced the low-cost TruePoint CA-42
+Touch Monitor, a durable touch screen monitor for Amiga-based multimedia,
+kiosk, training, and business applications. The TruePoint package includes
+the new high-resolution Commodore 1942 14-inch display, a completely
+integrated capacitive touch screen, controller, and the AmigaTouch Driver.
+Now all Amiga applications can use a touch screen -- providing all the
+functionality of a mouse but with a much friendlier user interface.
+
+Plug-and-Play
+
+The TruePoint CA-42 Monitor is a plug-and-play solution that offers greater
+ease of use and convenience to VARs and systems integrators seeking to add
+touch screen input to their new or existing applications. By offering a
+completely integrated touch monitor, the unit addresses an important market
+need for a touch system that doesn't require assembly from a touch screen
+kit.
+
+Superior Touch Performance
+
+The TruePoint CA-42 Monitor uses MicroTouch's industry-leading patented
+analog capacitive touch technology, which involves the sensing of electrical
+signals generated on a conductive coating. The unique construction of the
+MicroTouch capacitive sensor makes it the only touch technology that delivers
+high resolution, optical clarity, speed, and durability all in on package.
+(Technology Backgrounder available upon request.)
+
+Computer Network, Inc., a systems integrator, has recently installed an
+Amiga-based Touch Screen Kiosk in the Las Vegas Hilton. The information kiosk
+allows hotel/casino visitors to learn about the hotel's services and
+activities. According to Kevin Kostiner, president of Computer Network, Inc.,
+"We looked at several touch screen products and selected MicroTouch due to
+the high quality of their capacitive touch screns. In a hectic casino
+environment we need an extremely durable touch screen solution."
+
+The Power of the Amiga Combined with Touch
+
+Amiga computers, with advanced graphics and enhanced audio and video
+capabilities, have become increasingly popular in multimedia applications.
+The recently announced Commodore 1942 monitor was specifically designed for
+multimedia applications. The monitor includes built-in stereo speakers and
+audio input making it more convenient for multimedia developers. Combining
+the Amiga computer and the 1942 monitor with the user-friendliness of touch
+screens makes Amiga systems the perfect solution for many different
+multimedia applications.
+
+AmigaTouch Driver Specifications
+
+The AmigaTouch Driver allows all Amiga software to run seamlessly with the
+touch screen and comes complete with control panel to set touch screen
+preferences, including cursor offset and sensitivity. The AmigaTouch Driver
+supports two-button mouse emulation, multitasking from Workbench or CLI,
+simultaneous mouse and touch screen usage, and is compatible with both PAL
+and NTSC Amiga computers.
+
+Touch Montior Display Specifications
+
+The TruePoint CA-42 is based on the high-quality, Commodore Amiga 1942
+monitor. This high-resolution, Super VGA 14-inch monitor has a dot pitch of
+0.28mm, a maximum resolution of 800x600 non-interlaced, a vertical scan rate
+of 45-75 Hz, and a horizontal scan rate of 15.6-15.8 to 27.3-31.5 KHz. The
+monitor comes complete with stereo speakers, audio input, front accessible
+controls, and a tilt/swivel base.
+
+Pricing, Availability, and Warranty
+
+The TruePoint CA-42 Monitor is available immdiately through dealers or
+directly from MicroTouch. The list price for the TruePoint CA-42 is $1,495;
+volume and dealer discounts are available. The MicroTouch capacitive sensor
+has a five-year warranty, the controller has a two-yar warranty, and the
+Commodore Amiga 1942 monitor has a 90-day warranty.
+
+MicroTouch Systems, Inc. (NASDAQ: MTSI) headquartered in Methuen, Mass., is
+the leading manufacturer of touch screens used in point-of-sale, information,
+and self-service kiosk, gaming, industrial, multimedia, and other
+computer-based applications. The company also markets fully-integrated kiosks
+and digitizers for pen computing. MicroTouch, a public company founded in
+1982, reported sales of over $30 million in 1992, and was recently ranked by
+Forbes Magazine as the 23rd Best Small Business in the United States.
+
