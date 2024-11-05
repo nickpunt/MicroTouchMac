@@ -1,3 +1,6 @@
+# ⚠️ UPDATE: Nov 4 2024
+If you are the person who just purchased [the Mac N Touch from ebay](https://www.ebay.com/itm/116370628547) on Nov 4, 2024, please reach out to me on here or [68kmla](https://68kmla.org/bb/index.php?members/nickpunt.2094/). I'd love to hear more about your experience getting it working, if we have the same version of ROMs, etc.
+
 # MicroTouchMac
 This is a resource for people interested in the MicroTouch Mac 'n Touch touchscreen for ADB-based Compact Macintosh computers (SE, SE/30, Classic, Classic II), as well as for later Mac-based Microtouch products (external monitors and iMacs).
 
