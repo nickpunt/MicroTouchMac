@@ -10,7 +10,7 @@ The Mac 'n Touch is a 9" glass touchscreen with a controller board made in the l
 Example images and video can be seen in the **Images** folder. The video is by vintagecomputer.ca, originally [posted to youtube](https://www.youtube.com/watch?v=DF-Je337sFo).
 
 # Community
-Discussion is happening on [this 68kmla thread](https://68kmla.org/forums/topic/55457-mac-se30-with-microtouch-touchscreen/). There are three, possibly four units that have been seen in the wild.
+Discussion is happening on [this 68kmla thread](https://68kmla.org/bb/index.php?threads/mac-se-30-with-microtouch-touchscreen.31642/). There are three, possibly four units that have been seen in the wild.
 
 * Someone has a unit (c 1989) purchased 2024-11-04 ebay item # 116370628547 
 * [vintagecomputer.ca](http://vintagecomputer.ca/) has a unit (c 1989), ebay item # 112373352145
